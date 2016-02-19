@@ -1,12 +1,12 @@
 import os.path
 import time
 import pickle
+import numpy as np
 import gzip
 from datetime import datetime
+import time
 
 dir_home = '../data/'
-
-month_to_days = {1:31, 2:28, 3:31, 4:30, 5:31, 6:30, 7:31, 8:31, 9:30, 10:31, 11:30, 12:31}
 
 def readGz(f):
   for l in gzip.open(f):
@@ -31,34 +31,75 @@ def numHRWorkouts(workouts):
   return hr_count
 
 #returns number of days b/t first and last workout
-def spanOfWorkout(sorted_dates):
-  delta = sorted_dates[0] - sorted_dates[-1]
+def spanOfDates(sorted_dates):
+  delta = sorted_dates[-1] - sorted_dates[0]
   return delta.days
 
-def dateSpan(early, late):
-  pass    
-
 if __name__ == '__main__':
+  print "Starting @ ",
+  print time.strftime("%Y-%m-%d %H:%M:%S")
+
   pkl_file = open('../pickle_files/user_has_hr.pkl', 'rb')
   user_has_hr = pickle.load(pkl_file)
   pkl_file = open('../pickle_files/user_count.pkl', 'rb')
   user_count = pickle.load(pkl_file)
 
-  thresh = 20
+  thresh = 10
   users = [x for x in user_has_hr.keys() if user_count[x] > thresh]
 
   user_count = 0
-  user_data = []
+  total_num_hr = 0
+  num_of_workouts = []
+  per_w_hr = []
+  all_frequencies = []
 
-  for u in users[0:1]:
+  for u in users[0:100]:
+    if(user_count == 0):
+      "On user: 1, ",
+      sys.stdout.flush()
+    elif(user_count % 10 == 0):
+      print user_count,
+      sys.stdout.flush()
+
     filepath = dir_home + u + '.txt.gz'
 
     #check if user file exists
     if not os.path.isfile(filepath):
       continue
 
-    workouts = getUserWorkouts(filepath)
-    dates = [datetime.strptime(w['start_time'], "%Y-%m-%dT%H:%M:%S.000Z") for w in workouts]
-    sorted(dates)
-
     user_count += 1
+
+    workouts = getUserWorkouts(filepath)
+
+    if len(workouts) < 100:
+      continue
+
+    num_of_workouts.append(len(workouts))
+
+    dates = [datetime.strptime(w['start_time'], "%Y-%m-%dT%H:%M:%S.000Z") for w in workouts]
+    dates.sort()
+    
+    num_hr = numHRWorkouts(workouts)
+    total_num_hr += num_hr
+    per_hr = 1.0*num_hr/len(workouts)
+    per_w_hr.append(per_hr) 
+
+  avg_num_workouts = np.average(num_of_workouts)
+  std_num_workouts = np.std(num_of_workouts)
+  max_num_workouts = max(num_of_workouts)
+  min_num_workouts = min(num_of_workouts)
+
+  overall_per_w_hr = 1.0*total_num_hr/sum(num_of_workouts)
+  avg_w_hr = np.average(per_w_hr)
+  std_w_hr = np.std(per_w_hr)
+
+  print "\n\n-----STATS-----"
+  print "Number of users = %d" %(user_count)
+  print "Workouts per user: avg = %d, std dev = %d" %(avg_num_workouts, std_num_workouts)
+  print "Max workouts = %d, min workouts = %d" %(max_num_workouts, min_num_workouts)
+  print "Percent of all workouts w/ hr data: %f" %(overall_per_w_hr)
+  print "Average %" + " of user workouts w/ hr data: %f" %(avg_w_hr)
+  print "Std dev %" + " of user workouts w/ hr data: %f" %(std_w_hr)
+
+  print "Done @ ",
+  print time.strftime("%Y-%m-%d %H:%M:%S")
