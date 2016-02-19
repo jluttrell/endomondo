@@ -1,0 +1,66 @@
+Starting @  2016-01-30 18:08:47
+Date range from 2000-01-01 to 2016-01-01
+LETS BEGIN:  2016-01-30 18:08:55
+2016-01-30 18:08:55   user 9225240 has 294 workouts
+2016-01-30 18:14:25   user 10210063 has 350 workouts
+2016-01-30 18:20:58   user 1676449 has 565 workouts
+2016-01-30 18:28:12   user 890789 has 1312 workouts
+2016-01-30 18:49:13   user 1779490 has 348 workouts
+2016-01-30 18:55:26   user 1023513 has 1094 workouts
+2016-01-30 19:25:06   user 81753 has 1136 workouts
+2016-01-30 19:43:01   user 4693937 has 679 workouts
+2016-01-30 19:51:38   user 2909018 has 797 workouts
+^Z
+[3]+  Stopped                 python endo_crawl.py
+
+Starting @  2016-01-30 20:39:22
+Date range from 2000-01-01 to 2016-01-01
+LETS BEGIN:  2016-01-30 20:39:29
+2016-01-30 20:39:29   user 2909018 has 797 workouts
+2016-01-30 20:59:11   user 1410151 has 1260 workouts
+2016-01-30 21:19:04   user 2661450 has 880 workouts
+2016-01-30 21:34:20   user 6692748 has 789 workouts
+2016-01-30 21:49:19   user 4248213 has 1121 workouts
+2016-01-30 22:07:04   user 2927285 has 1819 workouts
+2016-01-30 22:19:21   user 13637398 has 417 workouts
+2016-01-30 22:22:18   user 3325031 has 1385 workouts
+2016-01-30 22:38:38   user 2600099 has 1354 workouts
+2016-01-30 23:04:06   user 4003530 has 2185 workouts
+2016-01-30 23:36:21   user 4200273 has 721 workouts
+2016-01-30 23:47:59   user 1384698 has 998 workouts
+2016-01-31 00:04:54   user 5655936 has 533 workouts
+2016-01-31 00:10:34   user 8959308 has 735 workouts
+2016-01-31 00:18:33   user 11992223 has 844 workouts
+2016-01-31 00:30:48 995898 has 0 workouts
+2016-01-31 00:32:19   user 5164930 has 552 workouts
+jluttrell@jluttrellXPS13:~/Research/McAuley/honors/source$ python endo_crawl.py 
+Starting @  2016-01-31 00:48:19
+Date range from 2000-01-01 to 2016-01-01
+LETS BEGIN:  2016-01-31 00:48:26
+2016-01-31 00:48:26    (1/25)user 8006230 has 782 workouts
+2016-01-31 00:56:12    (2/25)user 3074700 has 790 workouts
+2016-01-31 01:05:38    (3/25)user 7998342 has 76 workouts
+2016-01-31 01:06:56    (4/25)user 12341489 has 384 workouts
+2016-01-31 01:13:29    (5/25)user 5844 has 2093 workouts
+2016-01-31 01:46:55    (6/25)user 1703485 has 470 workouts
+2016-01-31 01:51:41    (7/25)user 1676051 has 1716 workouts
+2016-01-31 01:59:56 FAILED: Unable to connect - user 1676051, workoutid 473796904
+2016-01-31 01:59:56    (8/25)user 4059417 has 96 workouts
+2016-01-31 02:03:11    (9/25)user 6926799 has 950 workouts
+2016-01-31 02:10:32 FAILED: Unable to connect - user 6926799, workoutid 379620523
+2016-01-31 02:10:32    (10/25)user 6223138 has 378 workouts
+2016-01-31 02:21:14    (11/25)user 3846909 has 389 workouts
+2016-01-31 02:25:48    (12/25)user 80101 has 515 workouts
+2016-01-31 02:33:54    (13/25)user 5032597 has 2092 workouts
+2016-01-31 03:09:11    (14/25)user 14283639 has 1065 workouts
+2016-01-31 03:19:43    (15/25)user 820584 has 727 workouts
+2016-01-31 03:25:18    (16/25)user 9295581 has 434 workouts
+2016-01-31 03:32:10    (17/25)user 4456323 has 1551 workouts
+2016-01-31 03:53:31    (18/25)user 10888294 has 954 workouts
+2016-01-31 04:07:20    (19/25)user 9822299 has 609 workouts
+2016-01-31 04:15:46    (20/25)user 5337796 has 173 workouts
+2016-01-31 04:18:12    (21/25)user 1655221 has 1448 workouts
+2016-01-31 04:39:48    (22/25)user 14370069 has 192 workouts
+2016-01-31 04:42:48    (23/25)user 8923359 has 551 workouts
+2016-01-31 04:51:05 25042 has 0 workouts
+2016-01-31 04:52:36    (25/25)user 504709 has 523 workouts

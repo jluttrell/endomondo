@@ -1,0 +1,507 @@
+Starting @  2016-02-01 00:11:23
+Date range from 2000-01-01 to 2016-01-01
+LETS BEGIN:  2016-02-01 00:11:30
+2016-02-01 00:11:30   (1/75) user 3655927 has 1864 workouts
+2016-02-01 00:38:13   (2/75) user 864033 has 954 workouts
+2016-02-01 00:45:48   (3/75) user 4727641 has 1452 workouts
+2016-02-01 01:05:27   (4/75) user 12092082 has 89 workouts
+2016-02-01 01:07:00 1715938 has 0 workouts
+2016-02-01 01:08:31   (6/75) user 765825 has 924 workouts
+2016-02-01 01:16:18   (7/75) user 13693003 has 890 workouts
+2016-02-01 01:30:56   (8/75) user 8446566 has 2079 workouts
+2016-02-01 01:59:41 FAILED: (0/5) Unable to connect - user 8446566, workoutid 163802282
+2016-02-01 02:01:28   (9/75) user 2232580 has 671 workouts
+2016-02-01 02:04:04 FAILED: (0/5) Unable to connect - user 2232580, workoutid 403858321
+2016-02-01 02:16:06 FAILED: (0/5) Unable to connect - user 2232580, workoutid 326777124
+2016-02-01 02:16:11   (10/75) user 13149722 has 1676 workouts
+2016-02-01 02:49:33   (11/75) user 5852978 has 273 workouts
+2016-02-01 02:55:05   (12/75) user 8306072 has 32 workouts
+2016-02-01 02:55:38   (13/75) user 13465705 has 634 workouts
+2016-02-01 03:03:00   (14/75) user 1589193 has 1825 workouts
+2016-02-01 03:26:55 2723752 has 0 workouts
+2016-02-01 03:28:26   (16/75) user 4861891 has 2600 workouts
+2016-02-01 03:28:56 FAILED: (0/5) Unable to connect - user 4861891, workoutid 650602206
+2016-02-01 03:28:56 FAILED: (1/5) Unable to connect - user 4861891, workoutid 650612876
+2016-02-01 03:28:56 FAILED: (2/5) Unable to connect - user 4861891, workoutid 650072808
+2016-02-01 03:28:56 FAILED: (3/5) Unable to connect - user 4861891, workoutid 649964974
+2016-02-01 03:28:56 FAILED: (4/5) Unable to connect - user 4861891, workoutid 649964656
+2016-02-01 03:28:56 FAILED: (5/5) Unable to connect - user 4861891, workoutid 649964186
+2016-02-01 03:28:56   (17/75) user 3301823 has 1056 workouts
+2016-02-01 03:29:08 FAILED: (0/5) Unable to connect - user 3301823, workoutid 647973951
+2016-02-01 03:29:08 FAILED: (1/5) Unable to connect - user 3301823, workoutid 647498010
+2016-02-01 03:29:08 FAILED: (2/5) Unable to connect - user 3301823, workoutid 646826241
+2016-02-01 03:29:08 FAILED: (3/5) Unable to connect - user 3301823, workoutid 645861055
+2016-02-01 03:29:08 FAILED: (4/5) Unable to connect - user 3301823, workoutid 644954679
+2016-02-01 03:29:08 FAILED: (5/5) Unable to connect - user 3301823, workoutid 644230084
+2016-02-01 03:29:08 72182 has 0 workouts
+2016-02-01 03:30:39   (19/75) user 11255266 has 1049 workouts
+2016-02-01 03:30:55 FAILED: (0/5) Unable to connect - user 11255266, workoutid 648638684
+2016-02-01 03:30:55 FAILED: (1/5) Unable to connect - user 11255266, workoutid 648638676
+2016-02-01 03:30:55 FAILED: (2/5) Unable to connect - user 11255266, workoutid 648638547
+2016-02-01 03:30:55 FAILED: (3/5) Unable to connect - user 11255266, workoutid 648638544
+2016-02-01 03:30:55 FAILED: (4/5) Unable to connect - user 11255266, workoutid 648638515
+2016-02-01 03:30:55 FAILED: (5/5) Unable to connect - user 11255266, workoutid 648638512
+2016-02-01 03:30:55 1063624 has 0 workouts
+2016-02-01 03:32:25   (21/75) user 9378990 has 1792 workouts
+2016-02-01 03:32:52 FAILED: (0/5) Unable to connect - user 9378990, workoutid 652015781
+2016-02-01 03:32:52 FAILED: (1/5) Unable to connect - user 9378990, workoutid 650723177
+2016-02-01 03:32:52 FAILED: (2/5) Unable to connect - user 9378990, workoutid 652015774
+2016-02-01 03:32:52 FAILED: (3/5) Unable to connect - user 9378990, workoutid 650353497
+2016-02-01 03:32:52 FAILED: (4/5) Unable to connect - user 9378990, workoutid 652015769
+2016-02-01 03:32:52 FAILED: (5/5) Unable to connect - user 9378990, workoutid 649975839
+2016-02-01 03:32:52   (22/75) user 13751169 has 320 workouts
+2016-02-01 03:32:56 FAILED: (0/5) Unable to connect - user 13751169, workoutid 603653751
+2016-02-01 03:32:56 FAILED: (1/5) Unable to connect - user 13751169, workoutid 598892074
+2016-02-01 03:32:56 FAILED: (2/5) Unable to connect - user 13751169, workoutid 598286527
+2016-02-01 03:32:56 FAILED: (3/5) Unable to connect - user 13751169, workoutid 594744377
+2016-02-01 03:32:56 FAILED: (4/5) Unable to connect - user 13751169, workoutid 510968255
+2016-02-01 03:32:56 FAILED: (5/5) Unable to connect - user 13751169, workoutid 506966831
+2016-02-01 03:32:56   (23/75) user 14055451 has 116 workouts
+2016-02-01 03:32:58 FAILED: (0/5) Unable to connect - user 14055451, workoutid 350305766
+2016-02-01 03:32:58 FAILED: (1/5) Unable to connect - user 14055451, workoutid 349512993
+2016-02-01 03:32:58 FAILED: (2/5) Unable to connect - user 14055451, workoutid 349512999
+2016-02-01 03:32:58 FAILED: (3/5) Unable to connect - user 14055451, workoutid 347607518
+2016-02-01 03:32:58 FAILED: (4/5) Unable to connect - user 14055451, workoutid 347607530
+2016-02-01 03:32:58 FAILED: (5/5) Unable to connect - user 14055451, workoutid 347607540
+2016-02-01 03:32:58   (24/75) user 3167841 has 687 workouts
+2016-02-01 03:33:06 FAILED: (0/5) Unable to connect - user 3167841, workoutid 657955041
+2016-02-01 03:33:06 FAILED: (1/5) Unable to connect - user 3167841, workoutid 650232334
+2016-02-01 03:33:06 FAILED: (2/5) Unable to connect - user 3167841, workoutid 650232328
+2016-02-01 03:33:06 FAILED: (3/5) Unable to connect - user 3167841, workoutid 650232323
+2016-02-01 03:33:06 FAILED: (4/5) Unable to connect - user 3167841, workoutid 650232312
+2016-02-01 03:33:06 FAILED: (5/5) Unable to connect - user 3167841, workoutid 650232297
+2016-02-01 03:33:06   (25/75) user 12645302 has 144 workouts
+2016-02-01 03:33:09 FAILED: (0/5) Unable to connect - user 12645302, workoutid 426637572
+2016-02-01 03:33:09 FAILED: (1/5) Unable to connect - user 12645302, workoutid 426637629
+2016-02-01 03:33:09 FAILED: (2/5) Unable to connect - user 12645302, workoutid 426637702
+2016-02-01 03:33:09 FAILED: (3/5) Unable to connect - user 12645302, workoutid 426637778
+2016-02-01 03:33:09 FAILED: (4/5) Unable to connect - user 12645302, workoutid 426637849
+2016-02-01 03:33:09 FAILED: (5/5) Unable to connect - user 12645302, workoutid 426637922
+2016-02-01 03:33:09   (26/75) user 13859471 has 803 workouts
+2016-02-01 03:33:18 FAILED: (0/5) Unable to connect - user 13859471, workoutid 650532539
+2016-02-01 03:33:18 FAILED: (1/5) Unable to connect - user 13859471, workoutid 649819440
+2016-02-01 03:33:18 FAILED: (2/5) Unable to connect - user 13859471, workoutid 662155192
+2016-02-01 03:33:18 FAILED: (3/5) Unable to connect - user 13859471, workoutid 649418851
+2016-02-01 03:33:18 FAILED: (4/5) Unable to connect - user 13859471, workoutid 649424271
+2016-02-01 03:33:18 FAILED: (5/5) Unable to connect - user 13859471, workoutid 649418841
+2016-02-01 03:33:18   (27/75) user 854633 has 1119 workouts
+2016-02-01 03:33:32 FAILED: (0/5) Unable to connect - user 854633, workoutid 650696002
+2016-02-01 03:33:32 FAILED: (1/5) Unable to connect - user 854633, workoutid 650696041
+2016-02-01 03:33:32 FAILED: (2/5) Unable to connect - user 854633, workoutid 650659784
+2016-02-01 03:33:32 FAILED: (3/5) Unable to connect - user 854633, workoutid 650198165
+2016-02-01 03:33:32 FAILED: (4/5) Unable to connect - user 854633, workoutid 649894222
+2016-02-01 03:33:32 FAILED: (5/5) Unable to connect - user 854633, workoutid 649457604
+2016-02-01 03:33:32   (28/75) user 1541269 has 119 workouts
+2016-02-01 03:33:34 FAILED: (0/5) Unable to connect - user 1541269, workoutid 334687523
+2016-02-01 03:33:34 FAILED: (1/5) Unable to connect - user 1541269, workoutid 334687540
+2016-02-01 03:33:34 FAILED: (2/5) Unable to connect - user 1541269, workoutid 334687553
+2016-02-01 03:33:34 FAILED: (3/5) Unable to connect - user 1541269, workoutid 334687565
+2016-02-01 03:33:34 FAILED: (4/5) Unable to connect - user 1541269, workoutid 330807235
+2016-02-01 03:33:34 FAILED: (5/5) Unable to connect - user 1541269, workoutid 330807267
+2016-02-01 03:33:34   (29/75) user 3517326 has 608 workouts
+2016-02-01 03:33:43 FAILED: (0/5) Unable to connect - user 3517326, workoutid 507911460
+2016-02-01 03:33:43 FAILED: (1/5) Unable to connect - user 3517326, workoutid 507911475
+2016-02-01 03:33:43 FAILED: (2/5) Unable to connect - user 3517326, workoutid 507911517
+2016-02-01 03:33:43 FAILED: (3/5) Unable to connect - user 3517326, workoutid 507911593
+2016-02-01 03:33:43 FAILED: (4/5) Unable to connect - user 3517326, workoutid 507911656
+2016-02-01 03:33:43 FAILED: (5/5) Unable to connect - user 3517326, workoutid 507911698
+2016-02-01 03:33:43   (30/75) user 5971071 has 518 workouts
+2016-02-01 03:33:50 FAILED: (0/5) Unable to connect - user 5971071, workoutid 648782964
+2016-02-01 03:33:50 FAILED: (1/5) Unable to connect - user 5971071, workoutid 647604769
+2016-02-01 03:33:50 FAILED: (2/5) Unable to connect - user 5971071, workoutid 647276221
+2016-02-01 03:33:50 FAILED: (3/5) Unable to connect - user 5971071, workoutid 645907392
+2016-02-01 03:33:50 FAILED: (4/5) Unable to connect - user 5971071, workoutid 642645787
+2016-02-01 03:33:50 FAILED: (5/5) Unable to connect - user 5971071, workoutid 642026535
+2016-02-01 03:33:50   (31/75) user 367324 has 1932 workouts
+2016-02-01 03:34:19 FAILED: (0/5) Unable to connect - user 367324, workoutid 652555702
+2016-02-01 03:34:19 FAILED: (1/5) Unable to connect - user 367324, workoutid 649992029
+2016-02-01 03:34:19 FAILED: (2/5) Unable to connect - user 367324, workoutid 649995327
+2016-02-01 03:34:19 FAILED: (3/5) Unable to connect - user 367324, workoutid 649995322
+2016-02-01 03:34:19 FAILED: (4/5) Unable to connect - user 367324, workoutid 649535194
+2016-02-01 03:34:19 FAILED: (5/5) Unable to connect - user 367324, workoutid 649536107
+2016-02-01 03:34:19   (32/75) user 1956196 has 1273 workouts
+2016-02-01 03:34:37 FAILED: (0/5) Unable to connect - user 1956196, workoutid 650250983
+2016-02-01 03:34:37 FAILED: (1/5) Unable to connect - user 1956196, workoutid 649431593
+2016-02-01 03:34:37 FAILED: (2/5) Unable to connect - user 1956196, workoutid 648416391
+2016-02-01 03:34:37 FAILED: (3/5) Unable to connect - user 1956196, workoutid 647483014
+2016-02-01 03:34:37 FAILED: (4/5) Unable to connect - user 1956196, workoutid 647277156
+2016-02-01 03:34:37 FAILED: (5/5) Unable to connect - user 1956196, workoutid 646684894
+2016-02-01 03:34:37   (33/75) user 14066832 has 1286 workouts
+2016-02-01 03:34:56 FAILED: (0/5) Unable to connect - user 14066832, workoutid 649706842
+2016-02-01 03:34:56 FAILED: (1/5) Unable to connect - user 14066832, workoutid 649241202
+2016-02-01 03:34:56 FAILED: (2/5) Unable to connect - user 14066832, workoutid 648770881
+2016-02-01 03:34:56 FAILED: (3/5) Unable to connect - user 14066832, workoutid 650231773
+2016-02-01 03:34:56 FAILED: (4/5) Unable to connect - user 14066832, workoutid 648440930
+2016-02-01 03:34:56 FAILED: (5/5) Unable to connect - user 14066832, workoutid 648099364
+2016-02-01 03:34:56   (34/75) user 3824420 has 196 workouts
+2016-02-01 03:34:59 FAILED: (0/5) Unable to connect - user 3824420, workoutid 325620729
+2016-02-01 03:34:59 FAILED: (1/5) Unable to connect - user 3824420, workoutid 325620736
+2016-02-01 03:34:59 FAILED: (2/5) Unable to connect - user 3824420, workoutid 325620740
+2016-02-01 03:34:59 FAILED: (3/5) Unable to connect - user 3824420, workoutid 325620745
+2016-02-01 03:34:59 FAILED: (4/5) Unable to connect - user 3824420, workoutid 325620750
+2016-02-01 03:34:59 FAILED: (5/5) Unable to connect - user 3824420, workoutid 325620756
+2016-02-01 03:34:59   (35/75) user 196571 has 2302 workouts
+2016-02-01 03:35:25 FAILED: (0/5) Unable to connect - user 196571, workoutid 650572669
+2016-02-01 03:35:25 FAILED: (1/5) Unable to connect - user 196571, workoutid 650572638
+2016-02-01 03:35:25 FAILED: (2/5) Unable to connect - user 196571, workoutid 647861862
+2016-02-01 03:35:25 FAILED: (3/5) Unable to connect - user 196571, workoutid 647861855
+2016-02-01 03:35:25 FAILED: (4/5) Unable to connect - user 196571, workoutid 647861839
+2016-02-01 03:35:25 FAILED: (5/5) Unable to connect - user 196571, workoutid 647861830
+2016-02-01 03:35:25   (36/75) user 11472426 has 764 workouts
+2016-02-01 03:35:38 FAILED: (0/5) Unable to connect - user 11472426, workoutid 468275022
+2016-02-01 03:35:38 FAILED: (1/5) Unable to connect - user 11472426, workoutid 467215592
+2016-02-01 03:35:38 FAILED: (2/5) Unable to connect - user 11472426, workoutid 466977083
+2016-02-01 03:35:38 FAILED: (3/5) Unable to connect - user 11472426, workoutid 466296013
+2016-02-01 03:35:38 FAILED: (4/5) Unable to connect - user 11472426, workoutid 466118105
+2016-02-01 03:35:38 FAILED: (5/5) Unable to connect - user 11472426, workoutid 465632468
+2016-02-01 03:35:38   (37/75) user 15039847 has 302 workouts
+2016-02-01 03:35:43 FAILED: (0/5) Unable to connect - user 15039847, workoutid 615682611
+2016-02-01 03:35:43 FAILED: (1/5) Unable to connect - user 15039847, workoutid 615337279
+2016-02-01 03:35:43 FAILED: (2/5) Unable to connect - user 15039847, workoutid 614349907
+2016-02-01 03:35:43 FAILED: (3/5) Unable to connect - user 15039847, workoutid 609582424
+2016-02-01 03:35:43 FAILED: (4/5) Unable to connect - user 15039847, workoutid 609582087
+2016-02-01 03:35:43 FAILED: (5/5) Unable to connect - user 15039847, workoutid 607427452
+2016-02-01 03:35:43   (38/75) user 3743021 has 1163 workouts
+2016-02-01 03:35:56 FAILED: (0/5) Unable to connect - user 3743021, workoutid 651464233
+2016-02-01 03:35:56 FAILED: (1/5) Unable to connect - user 3743021, workoutid 648440200
+2016-02-01 03:35:56 FAILED: (2/5) Unable to connect - user 3743021, workoutid 648427970
+2016-02-01 03:35:56 FAILED: (3/5) Unable to connect - user 3743021, workoutid 647573556
+2016-02-01 03:35:56 FAILED: (4/5) Unable to connect - user 3743021, workoutid 647573272
+2016-02-01 03:35:56 FAILED: (5/5) Unable to connect - user 3743021, workoutid 647573212
+2016-02-01 03:35:56 8165854 has 0 workouts
+2016-02-01 03:36:03   (40/75) user 127185 has 224 workouts
+2016-02-01 03:36:07 FAILED: (0/5) Unable to connect - user 127185, workoutid 341138274
+2016-02-01 03:36:07 FAILED: (1/5) Unable to connect - user 127185, workoutid 338074372
+2016-02-01 03:36:07 FAILED: (2/5) Unable to connect - user 127185, workoutid 338074447
+2016-02-01 03:36:07 FAILED: (3/5) Unable to connect - user 127185, workoutid 334651295
+2016-02-01 03:36:07 FAILED: (4/5) Unable to connect - user 127185, workoutid 334651398
+2016-02-01 03:36:07 FAILED: (5/5) Unable to connect - user 127185, workoutid 334651527
+2016-02-01 03:36:07   (41/75) user 9655659 has 508 workouts
+2016-02-01 03:36:13 FAILED: (0/5) Unable to connect - user 9655659, workoutid 574473658
+2016-02-01 03:36:13 FAILED: (1/5) Unable to connect - user 9655659, workoutid 571716964
+2016-02-01 03:36:13 FAILED: (2/5) Unable to connect - user 9655659, workoutid 569750853
+2016-02-01 03:36:13 FAILED: (3/5) Unable to connect - user 9655659, workoutid 569605161
+2016-02-01 03:36:13 FAILED: (4/5) Unable to connect - user 9655659, workoutid 569605144
+2016-02-01 03:36:13 FAILED: (5/5) Unable to connect - user 9655659, workoutid 567278932
+2016-02-01 03:36:13 2694602 has 0 workouts
+2016-02-01 03:37:44   (43/75) user 6396824 has 634 workouts
+2016-02-01 03:37:55 FAILED: (0/5) Unable to connect - user 6396824, workoutid 418167933
+2016-02-01 03:37:55 FAILED: (1/5) Unable to connect - user 6396824, workoutid 418167945
+2016-02-01 03:37:55 FAILED: (2/5) Unable to connect - user 6396824, workoutid 418168031
+2016-02-01 03:37:55 FAILED: (3/5) Unable to connect - user 6396824, workoutid 418168064
+2016-02-01 03:37:55 FAILED: (4/5) Unable to connect - user 6396824, workoutid 418168095
+2016-02-01 03:37:55 FAILED: (5/5) Unable to connect - user 6396824, workoutid 418168114
+2016-02-01 03:37:55   (44/75) user 1819769 has 1642 workouts
+2016-02-01 03:38:13 FAILED: (0/5) Unable to connect - user 1819769, workoutid 650097081
+2016-02-01 03:38:13 FAILED: (1/5) Unable to connect - user 1819769, workoutid 649644970
+2016-02-01 03:38:13 FAILED: (2/5) Unable to connect - user 1819769, workoutid 648748495
+2016-02-01 03:38:13 FAILED: (3/5) Unable to connect - user 1819769, workoutid 647907709
+2016-02-01 03:38:13 FAILED: (4/5) Unable to connect - user 1819769, workoutid 647540167
+2016-02-01 03:38:13 FAILED: (5/5) Unable to connect - user 1819769, workoutid 647182148
+2016-02-01 03:38:13   (45/75) user 13842892 has 975 workouts
+2016-02-01 03:38:28 FAILED: (0/5) Unable to connect - user 13842892, workoutid 650491410
+2016-02-01 03:38:28 FAILED: (1/5) Unable to connect - user 13842892, workoutid 650093879
+2016-02-01 03:38:28 FAILED: (2/5) Unable to connect - user 13842892, workoutid 649659206
+2016-02-01 03:38:28 FAILED: (3/5) Unable to connect - user 13842892, workoutid 647559637
+2016-02-01 03:38:28 FAILED: (4/5) Unable to connect - user 13842892, workoutid 647213922
+2016-02-01 03:38:28 FAILED: (5/5) Unable to connect - user 13842892, workoutid 646865750
+2016-02-01 03:38:28   (46/75) user 3820045 has 2094 workouts
+2016-02-01 03:38:53 FAILED: (0/5) Unable to connect - user 3820045, workoutid 650536305
+2016-02-01 03:38:53 FAILED: (1/5) Unable to connect - user 3820045, workoutid 649814388
+2016-02-01 03:38:53 FAILED: (2/5) Unable to connect - user 3820045, workoutid 649636182
+2016-02-01 03:38:53 FAILED: (3/5) Unable to connect - user 3820045, workoutid 649596289
+2016-02-01 03:38:53 FAILED: (4/5) Unable to connect - user 3820045, workoutid 648728796
+2016-02-01 03:38:53 FAILED: (5/5) Unable to connect - user 3820045, workoutid 647940785
+2016-02-01 03:38:53   (47/75) user 7726077 has 1658 workouts
+2016-02-01 03:39:13 FAILED: (0/5) Unable to connect - user 7726077, workoutid 595193228
+2016-02-01 03:39:13 FAILED: (1/5) Unable to connect - user 7726077, workoutid 594546572
+2016-02-01 03:39:13 FAILED: (2/5) Unable to connect - user 7726077, workoutid 594545794
+2016-02-01 03:39:13 FAILED: (3/5) Unable to connect - user 7726077, workoutid 593819939
+2016-02-01 03:39:13 FAILED: (4/5) Unable to connect - user 7726077, workoutid 592301871
+2016-02-01 03:39:13 FAILED: (5/5) Unable to connect - user 7726077, workoutid 591267652
+2016-02-01 03:39:13   (48/75) user 12988738 has 338 workouts
+2016-02-01 03:39:19 FAILED: (0/5) Unable to connect - user 12988738, workoutid 640917379
+2016-02-01 03:39:19 FAILED: (1/5) Unable to connect - user 12988738, workoutid 611704896
+2016-02-01 03:39:19 FAILED: (2/5) Unable to connect - user 12988738, workoutid 599607110
+2016-02-01 03:39:19 FAILED: (3/5) Unable to connect - user 12988738, workoutid 595471976
+2016-02-01 03:39:19 FAILED: (4/5) Unable to connect - user 12988738, workoutid 595427254
+2016-02-01 03:39:19 FAILED: (5/5) Unable to connect - user 12988738, workoutid 575679694
+2016-02-01 03:39:19   (49/75) user 5067269 has 516 workouts
+2016-02-01 03:39:27 FAILED: (0/5) Unable to connect - user 5067269, workoutid 369995608
+2016-02-01 03:39:27 FAILED: (1/5) Unable to connect - user 5067269, workoutid 369125295
+2016-02-01 03:39:27 FAILED: (2/5) Unable to connect - user 5067269, workoutid 367988669
+2016-02-01 03:39:27 FAILED: (3/5) Unable to connect - user 5067269, workoutid 367011860
+2016-02-01 03:39:27 FAILED: (4/5) Unable to connect - user 5067269, workoutid 365896707
+2016-02-01 03:39:27 FAILED: (5/5) Unable to connect - user 5067269, workoutid 365337702
+2016-02-01 03:39:27 619085 has 0 workouts
+2016-02-01 03:40:58   (51/75) user 8994138 has 484 workouts
+2016-02-01 03:41:12 FAILED: (0/5) Unable to connect - user 8994138, workoutid 649671017
+2016-02-01 03:41:12 FAILED: (1/5) Unable to connect - user 8994138, workoutid 649568417
+2016-02-01 03:41:12 FAILED: (2/5) Unable to connect - user 8994138, workoutid 649203946
+2016-02-01 03:41:12 FAILED: (3/5) Unable to connect - user 8994138, workoutid 649203827
+2016-02-01 03:41:12 FAILED: (4/5) Unable to connect - user 8994138, workoutid 649203821
+2016-02-01 03:41:12 FAILED: (5/5) Unable to connect - user 8994138, workoutid 649203820
+2016-02-01 03:41:12   (52/75) user 9335429 has 1069 workouts
+2016-02-01 03:41:25 FAILED: (0/5) Unable to connect - user 9335429, workoutid 511383291
+2016-02-01 03:41:25 FAILED: (1/5) Unable to connect - user 9335429, workoutid 498281552
+2016-02-01 03:41:25 FAILED: (2/5) Unable to connect - user 9335429, workoutid 498282561
+2016-02-01 03:41:25 FAILED: (3/5) Unable to connect - user 9335429, workoutid 498260838
+2016-02-01 03:41:25 FAILED: (4/5) Unable to connect - user 9335429, workoutid 352772282
+2016-02-01 03:41:25 FAILED: (5/5) Unable to connect - user 9335429, workoutid 352772295
+2016-02-01 03:41:25   (53/75) user 195134 has 996 workouts
+2016-02-01 03:41:40 FAILED: (0/5) Unable to connect - user 195134, workoutid 648635819
+2016-02-01 03:41:40 FAILED: (1/5) Unable to connect - user 195134, workoutid 648200935
+2016-02-01 03:41:40 FAILED: (2/5) Unable to connect - user 195134, workoutid 647118251
+2016-02-01 03:41:40 FAILED: (3/5) Unable to connect - user 195134, workoutid 645393150
+2016-02-01 03:41:40 FAILED: (4/5) Unable to connect - user 195134, workoutid 645226617
+2016-02-01 03:41:40 FAILED: (5/5) Unable to connect - user 195134, workoutid 644729339
+2016-02-01 03:41:40   (54/75) user 4446822 has 1977 workouts
+2016-02-01 03:42:09 FAILED: (0/5) Unable to connect - user 4446822, workoutid 650700577
+2016-02-01 03:42:09 FAILED: (1/5) Unable to connect - user 4446822, workoutid 650645940
+2016-02-01 03:42:09 FAILED: (2/5) Unable to connect - user 4446822, workoutid 650546966
+2016-02-01 03:42:09 FAILED: (3/5) Unable to connect - user 4446822, workoutid 650546942
+2016-02-01 03:42:09 FAILED: (4/5) Unable to connect - user 4446822, workoutid 650254023
+2016-02-01 03:42:09 FAILED: (5/5) Unable to connect - user 4446822, workoutid 650130747
+2016-02-01 03:42:09   (55/75) user 7823641 has 189 workouts
+2016-02-01 03:42:12 FAILED: (0/5) Unable to connect - user 7823641, workoutid 343666158
+2016-02-01 03:42:12 FAILED: (1/5) Unable to connect - user 7823641, workoutid 342911481
+2016-02-01 03:42:12 FAILED: (2/5) Unable to connect - user 7823641, workoutid 342410949
+2016-02-01 03:42:12 FAILED: (3/5) Unable to connect - user 7823641, workoutid 342411008
+2016-02-01 03:42:12 FAILED: (4/5) Unable to connect - user 7823641, workoutid 341379437
+2016-02-01 03:42:12 FAILED: (5/5) Unable to connect - user 7823641, workoutid 341372921
+2016-02-01 03:42:12   (56/75) user 4443471 has 1005 workouts
+2016-02-01 03:42:24 FAILED: (0/5) Unable to connect - user 4443471, workoutid 663323551
+2016-02-01 03:42:24 FAILED: (1/5) Unable to connect - user 4443471, workoutid 663323544
+2016-02-01 03:42:24 FAILED: (2/5) Unable to connect - user 4443471, workoutid 663259954
+2016-02-01 03:42:24 FAILED: (3/5) Unable to connect - user 4443471, workoutid 636086980
+2016-02-01 03:42:24 FAILED: (4/5) Unable to connect - user 4443471, workoutid 635288872
+2016-02-01 03:42:24 FAILED: (5/5) Unable to connect - user 4443471, workoutid 632144987
+2016-02-01 03:42:24   (57/75) user 4973835 has 2064 workouts
+2016-02-01 03:42:48 FAILED: (0/5) Unable to connect - user 4973835, workoutid 649804029
+2016-02-01 03:42:48 FAILED: (1/5) Unable to connect - user 4973835, workoutid 649394031
+2016-02-01 03:42:48 FAILED: (2/5) Unable to connect - user 4973835, workoutid 649394024
+2016-02-01 03:42:48 FAILED: (3/5) Unable to connect - user 4973835, workoutid 645613802
+2016-02-01 03:42:48 FAILED: (4/5) Unable to connect - user 4973835, workoutid 645538541
+2016-02-01 03:42:48 FAILED: (5/5) Unable to connect - user 4973835, workoutid 649483571
+2016-02-01 03:42:48   (58/75) user 2692363 has 1717 workouts
+2016-02-01 03:43:09 FAILED: (0/5) Unable to connect - user 2692363, workoutid 650723375
+2016-02-01 03:43:09 FAILED: (1/5) Unable to connect - user 2692363, workoutid 650571316
+2016-02-01 03:43:09 FAILED: (2/5) Unable to connect - user 2692363, workoutid 650571289
+2016-02-01 03:43:09 FAILED: (3/5) Unable to connect - user 2692363, workoutid 650571252
+2016-02-01 03:43:09 FAILED: (4/5) Unable to connect - user 2692363, workoutid 650571218
+2016-02-01 03:43:09 FAILED: (5/5) Unable to connect - user 2692363, workoutid 649743626
+2016-02-01 03:43:09   (59/75) user 2155614 has 1459 workouts
+2016-02-01 03:43:31 FAILED: (0/5) Unable to connect - user 2155614, workoutid 652268711
+2016-02-01 03:43:31 FAILED: (1/5) Unable to connect - user 2155614, workoutid 652268687
+2016-02-01 03:43:31 FAILED: (2/5) Unable to connect - user 2155614, workoutid 652268679
+2016-02-01 03:43:31 FAILED: (3/5) Unable to connect - user 2155614, workoutid 652268672
+2016-02-01 03:43:31 FAILED: (4/5) Unable to connect - user 2155614, workoutid 652268664
+2016-02-01 03:43:31 FAILED: (5/5) Unable to connect - user 2155614, workoutid 652268655
+2016-02-01 03:43:31   (60/75) user 9522694 has 313 workouts
+2016-02-01 03:43:36 FAILED: (0/5) Unable to connect - user 9522694, workoutid 581667038
+2016-02-01 03:43:36 FAILED: (1/5) Unable to connect - user 9522694, workoutid 581666995
+2016-02-01 03:43:36 FAILED: (2/5) Unable to connect - user 9522694, workoutid 581666974
+2016-02-01 03:43:36 FAILED: (3/5) Unable to connect - user 9522694, workoutid 581666950
+2016-02-01 03:43:36 FAILED: (4/5) Unable to connect - user 9522694, workoutid 581668495
+2016-02-01 03:43:36 FAILED: (5/5) Unable to connect - user 9522694, workoutid 566566151
+2016-02-01 03:43:36   (61/75) user 4009109 has 553 workouts
+2016-02-01 03:43:44 FAILED: (0/5) Unable to connect - user 4009109, workoutid 650540450
+2016-02-01 03:43:44 FAILED: (1/5) Unable to connect - user 4009109, workoutid 650540441
+2016-02-01 03:43:44 FAILED: (2/5) Unable to connect - user 4009109, workoutid 646181910
+2016-02-01 03:43:44 FAILED: (3/5) Unable to connect - user 4009109, workoutid 644937673
+2016-02-01 03:43:44 FAILED: (4/5) Unable to connect - user 4009109, workoutid 643914099
+2016-02-01 03:43:44 FAILED: (5/5) Unable to connect - user 4009109, workoutid 643387945
+2016-02-01 03:43:44 3990352 has 0 workouts
+2016-02-01 03:45:15   (63/75) user 2576672 has 360 workouts
+2016-02-01 03:45:21 FAILED: (0/5) Unable to connect - user 2576672, workoutid 631719440
+2016-02-01 03:45:21 FAILED: (1/5) Unable to connect - user 2576672, workoutid 628952275
+2016-02-01 03:45:21 FAILED: (2/5) Unable to connect - user 2576672, workoutid 628832589
+2016-02-01 03:45:21 FAILED: (3/5) Unable to connect - user 2576672, workoutid 577515442
+2016-02-01 03:45:21 FAILED: (4/5) Unable to connect - user 2576672, workoutid 577502318
+2016-02-01 03:45:21 FAILED: (5/5) Unable to connect - user 2576672, workoutid 402212411
+2016-02-01 03:45:21 7161949 has 0 workouts
+2016-02-01 03:45:34   (65/75) user 56331 has 1655 workouts
+2016-02-01 03:45:53 FAILED: (0/5) Unable to connect - user 56331, workoutid 650613787
+2016-02-01 03:45:53 FAILED: (1/5) Unable to connect - user 56331, workoutid 650613774
+2016-02-01 03:45:53 FAILED: (2/5) Unable to connect - user 56331, workoutid 650613773
+2016-02-01 03:45:53 FAILED: (3/5) Unable to connect - user 56331, workoutid 650613772
+2016-02-01 03:45:53 FAILED: (4/5) Unable to connect - user 56331, workoutid 650613771
+2016-02-01 03:45:53 FAILED: (5/5) Unable to connect - user 56331, workoutid 650613770
+2016-02-01 03:45:53 2837157 has 0 workouts
+2016-02-01 03:47:24   (67/75) user 10568980 has 312 workouts
+2016-02-01 03:47:30 FAILED: (0/5) Unable to connect - user 10568980, workoutid 641527823
+2016-02-01 03:47:30 FAILED: (1/5) Unable to connect - user 10568980, workoutid 640650520
+2016-02-01 03:47:30 FAILED: (2/5) Unable to connect - user 10568980, workoutid 639655196
+2016-02-01 03:47:30 FAILED: (3/5) Unable to connect - user 10568980, workoutid 626582710
+2016-02-01 03:47:30 FAILED: (4/5) Unable to connect - user 10568980, workoutid 623737532
+2016-02-01 03:47:30 FAILED: (5/5) Unable to connect - user 10568980, workoutid 622761976
+2016-02-01 03:47:30   (68/75) user 6468697 has 263 workouts
+2016-02-01 03:47:33 FAILED: (0/5) Unable to connect - user 6468697, workoutid 647793305
+2016-02-01 03:47:33 FAILED: (1/5) Unable to connect - user 6468697, workoutid 643960563
+2016-02-01 03:47:33 FAILED: (2/5) Unable to connect - user 6468697, workoutid 642649456
+2016-02-01 03:47:33 FAILED: (3/5) Unable to connect - user 6468697, workoutid 639780714
+2016-02-01 03:47:33 FAILED: (4/5) Unable to connect - user 6468697, workoutid 638818101
+2016-02-01 03:47:33 FAILED: (5/5) Unable to connect - user 6468697, workoutid 635045690
+2016-02-01 03:47:33   (69/75) user 3981080 has 801 workouts
+2016-02-01 03:47:46 FAILED: (0/5) Unable to connect - user 3981080, workoutid 648553112
+2016-02-01 03:47:46 FAILED: (1/5) Unable to connect - user 3981080, workoutid 648550959
+2016-02-01 03:47:46 FAILED: (2/5) Unable to connect - user 3981080, workoutid 644410825
+2016-02-01 03:47:46 FAILED: (3/5) Unable to connect - user 3981080, workoutid 644060744
+2016-02-01 03:47:46 FAILED: (4/5) Unable to connect - user 3981080, workoutid 643726979
+2016-02-01 03:47:46 FAILED: (5/5) Unable to connect - user 3981080, workoutid 642987554
+2016-02-01 03:47:46   (70/75) user 10808479 has 81 workouts
+2016-02-01 03:47:47 FAILED: (0/5) Unable to connect - user 10808479, workoutid 650435574
+2016-02-01 03:47:47 FAILED: (1/5) Unable to connect - user 10808479, workoutid 648690429
+2016-02-01 03:47:47 FAILED: (2/5) Unable to connect - user 10808479, workoutid 648315156
+2016-02-01 03:47:47 FAILED: (3/5) Unable to connect - user 10808479, workoutid 643280296
+2016-02-01 03:47:47 FAILED: (4/5) Unable to connect - user 10808479, workoutid 641536572
+2016-02-01 03:47:47 FAILED: (5/5) Unable to connect - user 10808479, workoutid 640713958
+2016-02-01 03:47:47   (71/75) user 12049619 has 107 workouts
+2016-02-01 03:47:49 FAILED: (0/5) Unable to connect - user 12049619, workoutid 325553805
+2016-02-01 03:47:49 FAILED: (1/5) Unable to connect - user 12049619, workoutid 325553807
+2016-02-01 03:47:49 FAILED: (2/5) Unable to connect - user 12049619, workoutid 325553811
+2016-02-01 03:47:49 FAILED: (3/5) Unable to connect - user 12049619, workoutid 325553813
+2016-02-01 03:47:49 FAILED: (4/5) Unable to connect - user 12049619, workoutid 325553816
+2016-02-01 03:47:49 FAILED: (5/5) Unable to connect - user 12049619, workoutid 325553817
+2016-02-01 03:47:49   (72/75) user 447454 has 274 workouts
+2016-02-01 03:47:53 FAILED: (0/5) Unable to connect - user 447454, workoutid 583655252
+2016-02-01 03:47:53 FAILED: (1/5) Unable to connect - user 447454, workoutid 583535832
+2016-02-01 03:47:53 FAILED: (2/5) Unable to connect - user 447454, workoutid 580997829
+2016-02-01 03:47:53 FAILED: (3/5) Unable to connect - user 447454, workoutid 565494971
+2016-02-01 03:47:53 FAILED: (4/5) Unable to connect - user 447454, workoutid 560320616
+2016-02-01 03:47:53 FAILED: (5/5) Unable to connect - user 447454, workoutid 556619923
+2016-02-01 03:47:53   (73/75) user 7967148 has 2093 workouts
+2016-02-01 03:48:24 FAILED: (0/5) Unable to connect - user 7967148, workoutid 638503834
+2016-02-01 03:48:24 FAILED: (1/5) Unable to connect - user 7967148, workoutid 638503809
+2016-02-01 03:48:24 FAILED: (2/5) Unable to connect - user 7967148, workoutid 638503723
+2016-02-01 03:48:24 FAILED: (3/5) Unable to connect - user 7967148, workoutid 637929033
+2016-02-01 03:48:24 FAILED: (4/5) Unable to connect - user 7967148, workoutid 637825769
+2016-02-01 03:48:24 FAILED: (5/5) Unable to connect - user 7967148, workoutid 637825765
+2016-02-01 03:48:24   (74/75) user 10423727 has 253 workouts
+2016-02-01 03:48:27 FAILED: (0/5) Unable to connect - user 10423727, workoutid 650289639
+2016-02-01 03:48:27 FAILED: (1/5) Unable to connect - user 10423727, workoutid 645316457
+2016-02-01 03:48:27 FAILED: (2/5) Unable to connect - user 10423727, workoutid 643156386
+2016-02-01 03:48:27 FAILED: (3/5) Unable to connect - user 10423727, workoutid 642468991
+2016-02-01 03:48:27 FAILED: (4/5) Unable to connect - user 10423727, workoutid 641631236
+2016-02-01 03:48:27 FAILED: (5/5) Unable to connect - user 10423727, workoutid 641622468
+2016-02-01 03:48:27   (75/75) user 3692720 has 1674 workouts
+2016-02-01 03:48:52 FAILED: (0/5) Unable to connect - user 3692720, workoutid 650505310
+2016-02-01 03:48:52 FAILED: (1/5) Unable to connect - user 3692720, workoutid 649868066
+2016-02-01 03:48:52 FAILED: (2/5) Unable to connect - user 3692720, workoutid 649399707
+2016-02-01 03:48:52 FAILED: (3/5) Unable to connect - user 3692720, workoutid 649213798
+2016-02-01 03:48:52 FAILED: (4/5) Unable to connect - user 3692720, workoutid 648560421
+2016-02-01 03:48:52 FAILED: (5/5) Unable to connect - user 3692720, workoutid 647933309
+
+Starting @  2016-02-01 16:36:50
+Date range from 2000-01-01 to 2016-01-01
+LETS BEGIN:  2016-02-01 16:36:58
+2016-02-01 16:36:58   (1/60) user 4861891 has 2600 workouts
+2016-02-01 17:10:46   (2/60) user 3301823 has 1056 workouts
+2016-02-01 17:22:28 72182 has 0 workouts
+2016-02-01 17:23:58   (4/60) user 11255266 has 1049 workouts
+2016-02-01 17:41:28   (5/60) user 1063624 has 2700 workouts
+2016-02-01 18:28:27   (6/60) user 9378990 has 1792 workouts
+2016-02-01 18:45:24   (7/60) user 13751169 has 320 workouts
+2016-02-01 18:47:29   (8/60) user 14055451 has 116 workouts
+2016-02-01 18:48:14   (9/60) user 3167841 has 687 workouts
+2016-02-01 18:57:38   (10/60) user 12645302 has 144 workouts
+2016-02-01 19:00:58   (11/60) user 13859471 has 803 workouts
+2016-02-01 19:13:33   (12/60) user 854633 has 1119 workouts
+2016-02-01 19:31:22   (13/60) user 1541269 has 119 workouts
+2016-02-01 19:32:56   (14/60) user 3517326 has 608 workouts
+2016-02-01 19:46:43   (15/60) user 5971071 has 518 workouts
+2016-02-01 19:56:48   (16/60) user 367324 has 1932 workouts
+2016-02-01 20:25:37   (17/60) user 1956196 has 1273 workouts
+2016-02-01 20:46:44   (18/60) user 14066832 has 1286 workouts
+2016-02-01 21:16:57   (19/60) user 3824420 has 196 workouts
+2016-02-01 21:19:56   (20/60) user 196571 has 2302 workouts
+2016-02-01 21:51:22   (21/60) user 11472426 has 764 workouts
+2016-02-01 21:56:34   (22/60) user 15039847 has 302 workouts
+2016-02-01 21:58:28   (23/60) user 3743021 has 1163 workouts
+2016-02-01 22:15:36 8165854 has 0 workouts
+2016-02-01 22:15:43   (25/60) user 127185 has 224 workouts
+2016-02-01 22:19:33   (26/60) user 9655659 has 508 workouts
+2016-02-01 22:24:52 2694602 has 0 workouts
+2016-02-01 22:26:23   (28/60) user 6396824 has 634 workouts
+2016-02-01 22:31:55 FAILED: (0/3) Unable to connect - user 6396824, workoutid 267737855
+Waiting 10 seconds...
+2016-02-01 22:32:06 FAILED: (1/3) Unable to connect - user 6396824, workoutid 266612782
+Waiting 20 seconds...
+2016-02-01 22:32:27 FAILED: (2/3) Unable to connect - user 6396824, workoutid 265967647
+Waiting 30 seconds...
+2016-02-01 22:32:59 FAILED: (3/3) Unable to connect - user 6396824, workoutid 265671351
+Waiting 40 seconds...
+Unable to connect to 6396824
+2016-02-01 22:33:39 1819769 has 0 workouts
+2016-02-01 22:33:40 13842892 has 0 workouts
+2016-02-01 22:33:42 3820045 has 0 workouts
+2016-02-01 22:33:43 7726077 has 0 workouts
+2016-02-01 22:33:44 12988738 has 0 workouts
+2016-02-01 22:33:45 5067269 has 0 workouts
+2016-02-01 22:33:46 619085 has 0 workouts
+2016-02-01 22:33:47 8994138 has 0 workouts
+2016-02-01 22:33:48 9335429 has 0 workouts
+2016-02-01 22:33:49 195134 has 0 workouts
+2016-02-01 22:33:50 4446822 has 0 workouts
+2016-02-01 22:33:50 7823641 has 0 workouts
+2016-02-01 22:33:51 4443471 has 0 workouts
+2016-02-01 22:33:52 4973835 has 0 workouts
+2016-02-01 22:33:53 2692363 has 0 workouts
+2016-02-01 22:33:54 2155614 has 0 workouts
+2016-02-01 22:33:55 9522694 has 0 workouts
+2016-02-01 22:33:56 4009109 has 0 workouts
+2016-02-01 22:33:56 3990352 has 0 workouts
+2016-02-01 22:33:57 2576672 has 0 workouts
+2016-02-01 22:33:58 7161949 has 0 workouts
+2016-02-01 22:34:00 56331 has 0 workouts
+2016-02-01 22:34:01 2837157 has 0 workouts
+2016-02-01 22:34:01 10568980 has 0 workouts
+2016-02-01 22:34:02 6468697 has 0 workouts
+2016-02-01 22:34:03 3981080 has 0 workouts
+2016-02-01 22:34:04 10808479 has 0 workouts
+2016-02-01 22:34:05 12049619 has 0 workouts
+2016-02-01 22:34:06 447454 has 0 workouts
+2016-02-01 22:34:06 7967148 has 0 workouts
+2016-02-01 22:34:07 10423727 has 0 workouts
+2016-02-01 22:34:08 3692720 has 0 workouts
+
+Starting @  2016-02-01 23:08:42
+Date range from 2000-01-01 to 2016-01-01
+LETS BEGIN:  2016-02-01 23:08:50
+2016-02-01 23:08:50   (1/35) user 9655659 has 508 workouts
+2016-02-01 23:14:01 2694602 has 0 workouts
+2016-02-01 23:15:32   (3/35) user 6396824 has 634 workouts
+2016-02-01 23:24:05   (4/35) user 1819769 has 1642 workouts
+2016-02-01 23:36:04   (5/35) user 13842892 has 975 workouts
+2016-02-01 23:48:18   (6/35) user 3820045 has 2094 workouts
+2016-02-02 00:19:04   (7/35) user 7726077 has 1658 workouts
+2016-02-02 00:33:28   (8/35) user 12988738 has 338 workouts
+2016-02-02 00:38:30   (9/35) user 5067269 has 516 workouts
+2016-02-02 00:41:59 619085 has 0 workouts
+2016-02-02 00:43:30   (11/35) user 8994138 has 484 workouts
+2016-02-02 00:49:55   (12/35) user 9335429 has 1069 workouts
+2016-02-02 01:01:24   (13/35) user 195134 has 996 workouts
+2016-02-02 01:15:19   (14/35) user 4446822 has 1977 workouts
+2016-02-02 01:40:10   (15/35) user 7823641 has 189 workouts
+2016-02-02 01:42:51   (16/35) user 4443471 has 1005 workouts
+2016-02-02 01:57:38   (17/35) user 4973835 has 2064 workouts
+2016-02-02 02:26:36   (18/35) user 2692363 has 1717 workouts
+2016-02-02 02:54:06   (19/35) user 2155614 has 1459 workouts
+2016-02-02 03:11:49   (20/35) user 9522694 has 313 workouts
+2016-02-02 03:15:04   (21/35) user 4009109 has 553 workouts
+2016-02-02 03:23:11 3990352 has 0 workouts
+2016-02-02 03:24:42   (23/35) user 2576672 has 360 workouts
+2016-02-02 03:29:35 7161949 has 0 workouts
+2016-02-02 03:29:47   (25/35) user 56331 has 1655 workouts
+2016-02-02 03:49:09 2837157 has 0 workouts
+2016-02-02 03:50:39   (27/35) user 10568980 has 312 workouts
+2016-02-02 03:54:30   (28/35) user 6468697 has 263 workouts
+2016-02-02 03:58:27   (29/35) user 3981080 has 801 workouts
+2016-02-02 04:09:51   (30/35) user 10808479 has 81 workouts
+2016-02-02 04:10:58   (31/35) user 12049619 has 107 workouts
+2016-02-02 04:12:25   (32/35) user 447454 has 274 workouts
+2016-02-02 04:14:38   (33/35) user 7967148 has 2093 workouts
+2016-02-02 04:48:50   (34/35) user 10423727 has 253 workouts
+2016-02-02 04:52:24   (35/35) user 3692720 has 1674 workouts
+2016-02-02 04:59:41 FAILED: (0/5) Unable to connect - user 3692720, workoutid 433893439
+Waiting 10 seconds...
