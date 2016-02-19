@@ -12,6 +12,9 @@ tags = ['id','sport','duration','distance','weather','start_time','speed_max', \
 start_date = '2000-01-01'
 end_date = '2016-01-01'
 
+#save_dir = '/media/jluttrell/Seagate Expansion Drive/endo_data/'
+save_dir = '../data/'
+
 def getWorkoutIDs(userid, start_date, end_date):
   url = 'https://www.endomondo.com/rest/v1/users/' + userid + \
         '/workouts?before=' + end_date + 'T06%3A59%3A59.999Z&after=' + \
@@ -50,8 +53,8 @@ def scrap(users, start_date, end_date):
   domain = "www.endomondo.com"
   #conn = httplib.HTTPSConnection(domain)
   conn = connect(domain)
-  start = 115
-  end = 150
+  start = 0
+  end = len(users)
   user_count = 0
   failures = 0
   failure_thresh = 5
@@ -71,7 +74,8 @@ def scrap(users, start_date, end_date):
     print "\t(%d/%d) user %s has %d workouts" %(user_count, (end-start), userid, len(workouts))
     first = True
 
-    fd = gzip.open('../data/' + userid + '.txt.gz', 'w')
+    fd = gzip.open(save_dir + userid + '.txt.gz', 'w')
+
     for workoutid in workouts:
       target = '/rest/v1/users/' + str(userid) + '/workouts/' + str(workoutid)
 
@@ -106,7 +110,7 @@ def scrap(users, start_date, end_date):
         fd.write(str(j['author']['gender']) + '\n')
         first = False
 
-      fd.write(str(clean_data))
+      fd.write(str(clean_data).encode('ascii'))
       fd.write('\n')
 
       wait()
@@ -125,7 +129,12 @@ def main():
   print "Date range from %s to %s" %(start_date, end_date)
 
   thresh = 20
-  users = [x for x in user_has_hr.keys() if user_count[x] > thresh]
+  old_users = [x for x in user_has_hr.keys() if user_count[x] > thresh]
+
+  thresh = 10
+  new_users = [x for x in user_has_hr.keys() if user_count[x] > thresh]
+  
+  users = [x for x in new_users if x not in old_users]
 
   print "LETS BEGIN: ",
   print time.strftime("%Y-%m-%d %H:%M:%S")
