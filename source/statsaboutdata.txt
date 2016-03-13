@@ -1,16 +1,16 @@
--(*) user count 
+-(*) user count x
 -(*) avg # workouts per user
 -(*) std of workouts per user
 -(*) max # workouts 
 -(*) min # workouts
 -(*) % of workouts w/ heartrate data
 -(*) avg % of workouts w/ heartrate data per user
--() date range
--() longest/shortest range of use for a user
--() avg frequency of use per user
--() stddev of freqeuency of user per user
--() max frequency of use per user
--() min frequency of use per user
+-(*) date range
+-(*) longest/shortest range of use for a user
+-(*) avg frequency of use per user
+-(*) stddev of freqeuency of use per user
+-(*) max frequency of use per user
+-(*) min frequency of use per user
 
 -plot trend 
   -avg delta b/t workouts

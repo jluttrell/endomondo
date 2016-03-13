@@ -53,7 +53,7 @@ def scrap(users, start_date, end_date):
   domain = "www.endomondo.com"
   #conn = httplib.HTTPSConnection(domain)
   conn = connect(domain)
-  start = 0
+  start = 690
   end = len(users)
   user_count = 0
   failures = 0

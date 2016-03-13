@@ -1,0 +1,455 @@
+Starting @  2016-02-02 23:56:52
+Date range from 2000-01-01 to 2016-01-01
+LETS BEGIN:  2016-02-02 23:56:56
+2016-02-02 23:56:56 	(1/350) user 9691938 has 528 workouts
+2016-02-03 00:05:54 	(2/350) user 4318337 has 231 workouts
+2016-02-03 00:09:31 	(3/350) user 6984316 has 366 workouts
+2016-02-03 00:11:57 	(4/350) user 82119 has 896 workouts
+2016-02-03 00:24:33 	(5/350) user 10927933 has 451 workouts
+2016-02-03 00:32:23 	(6/350) user 3474653 has 735 workouts
+2016-02-03 00:41:46 	(7/350) user 9593654 has 444 workouts
+2016-02-03 00:46:40 	(8/350) user 12254822 has 448 workouts
+2016-02-03 00:54:00 	(9/350) user 9051351 has 2596 workouts
+2016-02-03 01:36:46 	(10/350) user 2535101 has 816 workouts
+2016-02-03 01:47:39 	(11/350) user 1698488 has 2485 workouts
+2016-02-03 02:08:53 FAILED: (0/5) Unable to connect - user 1698488, workoutid 259632422
+Waiting 10 seconds...
+2016-02-03 02:12:19 FAILED: (0/5) Unable to connect - user 1698488, workoutid 201636016
+Waiting 10 seconds...
+2016-02-03 02:13:16 FAILED: (0/5) Unable to connect - user 1698488, workoutid 191615352
+Waiting 10 seconds...
+2016-02-03 02:14:19 FAILED: (0/5) Unable to connect - user 1698488, workoutid 181073566
+Waiting 10 seconds...
+2016-02-03 02:25:28 	(12/350) user 501555 has 1450 workouts
+2016-02-03 02:41:05 520070 has 0 workouts
+Waiting 60 seconds...
+2016-02-03 02:43:36 	(14/350) user 15470560 has 106 workouts
+2016-02-03 02:43:38 FAILED: (0/5) Unable to connect - user 15470560, workoutid 334686486
+Waiting 10 seconds...
+2016-02-03 02:45:25 	(15/350) user 10981926 has 864 workouts
+2016-02-03 03:00:20 FAILED: (0/5) Unable to connect - user 10981926, workoutid 244713077
+Waiting 10 seconds...
+2016-02-03 03:01:49 	(16/350) user 13702299 has 159 workouts
+2016-02-03 03:03:43 	(17/350) user 4161148 has 589 workouts
+2016-02-03 03:13:01 	(18/350) user 4998101 has 853 workouts
+2016-02-03 03:25:09 	(19/350) user 9896935 has 704 workouts
+2016-02-03 03:32:34 6045758 has 0 workouts
+Waiting 60 seconds...
+2016-02-03 03:33:49 	(21/350) user 6591189 has 986 workouts
+2016-02-03 03:46:23 	(22/350) user 1907590 has 1258 workouts
+2016-02-03 04:02:18 	(23/350) user 200833 has 348 workouts
+2016-02-03 04:08:09 	(24/350) user 797841 has 2764 workouts
+2016-02-03 04:19:22 FAILED: (0/5) Unable to connect - user 797841, workoutid 466035279
+Waiting 10 seconds...
+2016-02-03 04:21:21 FAILED: (0/5) Unable to connect - user 797841, workoutid 445229221
+Waiting 10 seconds...
+2016-02-03 04:23:20 FAILED: (0/5) Unable to connect - user 797841, workoutid 422686131
+Waiting 10 seconds...
+2016-02-03 04:31:21 FAILED: (0/5) Unable to connect - user 797841, workoutid 296535663
+Waiting 10 seconds...
+2016-02-03 04:53:48 	(25/350) user 2181290 has 366 workouts
+2016-02-03 04:59:16 3446596 has 0 workouts
+Waiting 60 seconds...
+2016-02-03 05:01:47 5215794 has 0 workouts
+Waiting 60 seconds...
+2016-02-03 05:04:18 	(28/350) user 5804873 has 1200 workouts
+2016-02-03 05:04:31 FAILED: (0/5) Unable to connect - user 5804873, workoutid 649203993
+Waiting 10 seconds...
+2016-02-03 05:14:17 	(29/350) user 388522 has 335 workouts
+2016-02-03 05:16:23 	(30/350) user 818925 has 967 workouts
+2016-02-03 05:32:04 	(31/350) user 7045897 has 1539 workouts
+2016-02-03 05:42:23 	(32/350) user 982359 has 2091 workouts
+2016-02-03 06:20:34 	(33/350) user 2484395 has 1696 workouts
+2016-02-03 06:45:54 	(34/350) user 13929011 has 245 workouts
+2016-02-03 06:50:02 	(35/350) user 13265402 has 629 workouts
+2016-02-03 07:03:14 FAILED: (0/5) Unable to connect - user 13265402, workoutid 267888620
+Waiting 10 seconds...
+2016-02-03 07:04:11 	(36/350) user 342794 has 1512 workouts
+2016-02-03 07:33:14 	(37/350) user 1896530 has 174 workouts
+2016-02-03 07:36:56 	(38/350) user 498804 has 997 workouts
+2016-02-03 07:57:21 	(39/350) user 3927253 has 1991 workouts
+2016-02-03 08:01:14 FAILED: (0/5) Unable to connect - user 3927253, workoutid 606800430
+Waiting 10 seconds...
+2016-02-03 08:34:31 	(40/350) user 13302788 has 152 workouts
+2016-02-03 08:36:15 	(41/350) user 3417701 has 2033 workouts
+2016-02-03 09:08:07 	(42/350) user 4233611 has 444 workouts
+2016-02-03 09:17:28 	(43/350) user 8353647 has 1478 workouts
+2016-02-03 09:40:05 	(44/350) user 13560443 has 567 workouts
+2016-02-03 09:51:17 	(45/350) user 6797922 has 330 workouts
+2016-02-03 09:55:31 	(46/350) user 9893231 has 371 workouts
+2016-02-03 10:03:57 3989600 has 0 workouts
+Waiting 60 seconds...
+2016-02-03 10:06:29 	(48/350) user 3056680 has 599 workouts
+2016-02-03 10:06:39 FAILED: (0/5) Unable to connect - user 3056680, workoutid 622390565
+Waiting 10 seconds...
+2016-02-03 10:13:26 	(49/350) user 109975 has 1076 workouts
+2016-02-03 10:31:24 	(50/350) user 7382493 has 1168 workouts
+2016-02-03 10:54:32 FAILED: (0/5) Unable to connect - user 7382493, workoutid 160998854
+Waiting 10 seconds...
+2016-02-03 10:56:11 	(51/350) user 2717503 has 1878 workouts
+2016-02-03 11:15:24 	(52/350) user 11884453 has 1230 workouts
+2016-02-03 11:38:42 	(53/350) user 2497422 has 1092 workouts
+2016-02-03 12:03:32 	(54/350) user 1707239 has 852 workouts
+2016-02-03 12:18:36 	(55/350) user 903587 has 1979 workouts
+2016-02-03 12:46:36 2626092 has 0 workouts
+Waiting 60 seconds...
+2016-02-03 12:49:07 	(57/350) user 10381161 has 507 workouts
+2016-02-03 12:49:15 FAILED: (0/5) Unable to connect - user 10381161, workoutid 648252512
+Waiting 10 seconds...
+2016-02-03 12:54:34 FAILED: (0/5) Unable to connect - user 10381161, workoutid 294747054
+Waiting 10 seconds...
+2016-02-03 12:57:47 	(58/350) user 4182594 has 1069 workouts
+2016-02-03 13:03:19 FAILED: (0/5) Unable to connect - user 4182594, workoutid 433724006
+Waiting 10 seconds...
+2016-02-03 13:18:17 	(59/350) user 753100 has 1750 workouts
+2016-02-03 13:44:21 	(60/350) user 280024 has 484 workouts
+2016-02-03 13:52:56 	(61/350) user 11510590 has 1099 workouts
+2016-02-03 14:14:57 	(62/350) user 4950883 has 106 workouts
+2016-02-03 14:15:48 	(63/350) user 5677506 has 1307 workouts
+2016-02-03 14:24:13 	(64/350) user 8040877 has 474 workouts
+2016-02-03 14:27:09 	(65/350) user 1895481 has 327 workouts
+2016-02-03 14:29:10 	(66/350) user 8959190 has 401 workouts
+2016-02-03 14:31:42 	(67/350) user 1986853 has 1042 workouts
+2016-02-03 14:47:18 	(68/350) user 6582710 has 1924 workouts
+2016-02-03 15:18:02 	(69/350) user 3812491 has 367 workouts
+2016-02-03 15:20:36 	(70/350) user 4119409 has 374 workouts
+2016-02-03 15:22:54 	(71/350) user 3295790 has 810 workouts
+2016-02-03 15:27:56 	(72/350) user 4625024 has 274 workouts
+2016-02-03 15:29:39 	(73/350) user 8512241 has 1016 workouts
+2016-02-03 15:35:58 	(74/350) user 2970357 has 280 workouts
+2016-02-03 15:37:43 	(75/350) user 3179516 has 1220 workouts
+2016-02-03 15:45:27 	(76/350) user 2774168 has 979 workouts
+2016-02-03 15:59:24 	(77/350) user 7228559 has 776 workouts
+2016-02-03 16:08:53 	(78/350) user 7191585 has 820 workouts
+2016-02-03 16:18:56 	(79/350) user 3055418 has 1381 workouts
+2016-02-03 16:31:48 FAILED: (0/5) Unable to connect - user 3055418, workoutid 289560675
+Waiting 10 seconds...
+2016-02-03 16:44:03 	(80/350) user 4419649 has 524 workouts
+2016-02-03 16:52:58 	(81/350) user 6069440 has 2551 workouts
+2016-02-03 16:58:42 FAILED: (0/5) Unable to connect - user 6069440, workoutid 599958199
+Waiting 10 seconds...
+2016-02-03 17:24:59 	(82/350) user 1601558 has 1360 workouts
+2016-02-03 17:40:20 FAILED: (0/5) Unable to connect - user 1601558, workoutid 239313426
+Waiting 10 seconds...
+2016-02-03 17:51:19 	(83/350) user 2218816 has 1266 workouts
+2016-02-03 18:14:00 	(84/350) user 4161100 has 674 workouts
+2016-02-03 18:19:01 	(85/350) user 6048570 has 367 workouts
+2016-02-03 18:21:21 	(86/350) user 12982703 has 96 workouts
+2016-02-03 18:21:58 	(87/350) user 8994885 has 1482 workouts
+2016-02-03 18:48:40 	(88/350) user 4439016 has 2571 workouts
+2016-02-03 20:31:23 	(89/350) user 7029291 has 931 workouts
+2016-02-03 20:37:31 	(90/350) user 12137040 has 619 workouts
+2016-02-03 20:40:22 FAILED: (0/5) Unable to connect - user 12137040, workoutid 307910794
+Waiting 10 seconds...
+2016-02-03 20:42:49 	(91/350) user 13802537 has 215 workouts
+2016-02-03 20:44:13 	(92/350) user 3674362 has 574 workouts
+2016-02-03 20:47:54 	(93/350) user 11326778 has 477 workouts
+2016-02-03 20:51:40 7506736 has 0 workouts
+Waiting 60 seconds...
+2016-02-03 20:54:12 	(95/350) user 12830822 has 1067 workouts
+2016-02-03 20:54:27 FAILED: (0/5) Unable to connect - user 12830822, workoutid 650423176
+Waiting 10 seconds...
+2016-02-03 21:12:30 	(96/350) user 5268649 has 467 workouts
+2016-02-03 21:22:28 	(97/350) user 11507087 has 768 workouts
+2016-02-03 21:27:14 	(98/350) user 6576243 has 118 workouts
+2016-02-03 21:28:00 	(99/350) user 4325326 has 2320 workouts
+2016-02-03 22:03:50 	(100/350) user 4868692 has 1626 workouts
+2016-02-03 22:26:13 	(101/350) user 1842744 has 1571 workouts
+2016-02-03 22:40:23 FAILED: (0/5) Unable to connect - user 1842744, workoutid 429879296
+Waiting 10 seconds...
+2016-02-03 22:56:31 	(102/350) user 5107134 has 420 workouts
+2016-02-03 23:04:23 	(103/350) user 5539676 has 533 workouts
+2016-02-03 23:13:22 	(104/350) user 4752000 has 1158 workouts
+2016-02-03 23:27:55 	(105/350) user 6539051 has 552 workouts
+2016-02-03 23:38:03 	(106/350) user 8582302 has 723 workouts
+2016-02-03 23:52:05 	(107/350) user 5635573 has 905 workouts
+2016-02-04 00:09:43 	(108/350) user 5488047 has 899 workouts
+2016-02-04 00:15:16 	(109/350) user 852337 has 141 workouts
+2016-02-04 00:16:08 	(110/350) user 3839510 has 346 workouts
+2016-02-04 00:18:17 	(111/350) user 13936431 has 400 workouts
+2016-02-04 00:20:44 	(112/350) user 874999 has 266 workouts
+2016-02-04 00:22:22 	(113/350) user 2247009 has 1646 workouts
+2016-02-04 00:33:38 8369192 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 00:34:49 	(115/350) user 846598 has 2537 workouts
+2016-02-04 00:35:52 FAILED: (0/5) Unable to connect - user 846598, workoutid 650849676
+Waiting 10 seconds...
+2016-02-04 01:13:13 58459 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 01:15:44 	(117/350) user 10312573 has 805 workouts
+2016-02-04 01:15:53 FAILED: (0/5) Unable to connect - user 10312573, workoutid 636368781
+Waiting 10 seconds...
+2016-02-04 01:34:23 	(118/350) user 5481957 has 1348 workouts
+2016-02-04 01:36:01 FAILED: (0/5) Unable to connect - user 5481957, workoutid 625765308
+Waiting 10 seconds...
+2016-02-04 01:56:48 	(119/350) user 3961631 has 1868 workouts
+2016-02-04 02:22:34 	(120/350) user 907015 has 1670 workouts
+2016-02-04 02:46:46 	(121/350) user 6502384 has 788 workouts
+2016-02-04 02:52:52 	(122/350) user 10453856 has 42 workouts
+2016-02-04 02:53:07 	(123/350) user 151094 has 367 workouts
+2016-02-04 02:55:23 	(124/350) user 11493412 has 1205 workouts
+2016-02-04 03:16:51 	(125/350) user 6882560 has 741 workouts
+2016-02-04 03:23:08 	(126/350) user 10943750 has 455 workouts
+2016-02-04 03:30:14 	(127/350) user 13619220 has 524 workouts
+2016-02-04 03:40:32 	(128/350) user 2734298 has 2255 workouts
+2016-02-04 04:06:29 FAILED: (0/5) Unable to connect - user 2734298, workoutid 224772406
+Waiting 10 seconds...
+2016-02-04 04:25:57 	(129/350) user 14394432 has 93 workouts
+2016-02-04 04:27:50 	(130/350) user 7135109 has 622 workouts
+2016-02-04 04:37:02 	(131/350) user 6724449 has 825 workouts
+2016-02-04 04:47:32 	(132/350) user 947554 has 1195 workouts
+2016-02-04 05:10:18 	(133/350) user 2618166 has 2398 workouts
+2016-02-04 05:25:58 	(134/350) user 185879 has 29 workouts
+2016-02-04 05:26:09 	(135/350) user 10719156 has 891 workouts
+2016-02-04 05:41:05 	(136/350) user 5202682 has 314 workouts
+2016-02-04 05:48:34 	(137/350) user 14306891 has 894 workouts
+2016-02-04 05:54:31 1543492 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 05:55:53 	(139/350) user 3576105 has 1437 workouts
+2016-02-04 06:09:40 FAILED: (0/5) Unable to connect - user 3576105, workoutid 180673563
+Waiting 10 seconds...
+2016-02-04 06:17:18 	(140/350) user 13758934 has 812 workouts
+2016-02-04 06:28:33 	(141/350) user 4873224 has 1428 workouts
+2016-02-04 06:37:24 	(142/350) user 4982869 has 997 workouts
+2016-02-04 06:43:32 1080102 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 06:44:40 	(144/350) user 1074038 has 825 workouts
+2016-02-04 06:50:09 1295690 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 06:51:23 	(146/350) user 5273972 has 1024 workouts
+2016-02-04 07:05:17 	(147/350) user 2866443 has 774 workouts
+2016-02-04 07:12:30 	(148/350) user 189488 has 2 workouts
+2016-02-04 07:12:54 	(149/350) user 877155 has 1320 workouts
+2016-02-04 07:31:35 	(150/350) user 337104 has 2229 workouts
+2016-02-04 08:10:09 	(151/350) user 12747285 has 72 workouts
+2016-02-04 08:12:02 	(152/350) user 7099226 has 95 workouts
+2016-02-04 08:13:32 	(153/350) user 3439813 has 1686 workouts
+2016-02-04 08:42:41 	(154/350) user 5635059 has 53 workouts
+2016-02-04 08:43:39 	(155/350) user 8687680 has 392 workouts
+2016-02-04 08:46:34 	(156/350) user 4958189 has 907 workouts
+2016-02-04 08:52:09 	(157/350) user 2856716 has 1613 workouts
+2016-02-04 09:16:26 	(158/350) user 10367164 has 2273 workouts
+2016-02-04 09:53:25 	(159/350) user 4350897 has 253 workouts
+2016-02-04 09:59:31 	(160/350) user 2675116 has 722 workouts
+2016-02-04 10:12:22 	(161/350) user 12555443 has 389 workouts
+2016-02-04 10:17:27 	(162/350) user 3205177 has 1423 workouts
+2016-02-04 10:38:33 	(163/350) user 1912029 has 1222 workouts
+2016-02-04 10:59:27 	(164/350) user 9632922 has 558 workouts
+2016-02-04 11:08:28 	(165/350) user 897592 has 549 workouts
+2016-02-04 11:18:00 	(166/350) user 1081719 has 262 workouts
+2016-02-04 11:23:43 	(167/350) user 632663 has 1527 workouts
+2016-02-04 11:24:57 FAILED: (0/5) Unable to connect - user 632663, workoutid 624434513
+Waiting 10 seconds...
+2016-02-04 11:41:28 	(168/350) user 3275003 has 1438 workouts
+2016-02-04 12:05:26 	(169/350) user 10562495 has 1076 workouts
+2016-02-04 12:24:35 	(170/350) user 10755044 has 68 workouts
+2016-02-04 12:25:08 	(171/350) user 14255438 has 910 workouts
+2016-02-04 12:41:43 780702 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 12:44:14 	(173/350) user 13279851 has 518 workouts
+2016-02-04 12:44:21 FAILED: (0/5) Unable to connect - user 13279851, workoutid 417701678
+Waiting 10 seconds...
+2016-02-04 12:55:09 	(174/350) user 10613102 has 769 workouts
+2016-02-04 13:09:03 	(175/350) user 7171109 has 958 workouts
+2016-02-04 13:26:11 	(176/350) user 5551642 has 314 workouts
+2016-02-04 13:31:50 	(177/350) user 4026257 has 285 workouts
+2016-02-04 13:35:56 	(178/350) user 5645980 has 577 workouts
+2016-02-04 13:42:47 	(179/350) user 3709276 has 1969 workouts
+2016-02-04 14:19:29 	(180/350) user 2122136 has 494 workouts
+2016-02-04 14:28:13 	(181/350) user 1560092 has 634 workouts
+2016-02-04 14:32:22 	(182/350) user 9884559 has 452 workouts
+2016-02-04 14:35:09 1560236 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 14:37:40 	(184/350) user 5703 has 1428 workouts
+2016-02-04 14:37:55 FAILED: (0/5) Unable to connect - user 5703, workoutid 650151495
+Waiting 10 seconds...
+2016-02-04 14:51:54 	(185/350) user 8791704 has 1280 workouts
+2016-02-04 15:08:25 	(186/350) user 6617597 has 310 workouts
+2016-02-04 15:14:47 	(187/350) user 1939033 has 427 workouts
+2016-02-04 15:22:17 	(188/350) user 139442 has 251 workouts
+2016-02-04 15:27:11 	(189/350) user 1668573 has 1351 workouts
+2016-02-04 15:45:08 	(190/350) user 875281 has 510 workouts
+2016-02-04 15:54:20 	(191/350) user 5170013 has 330 workouts
+2016-02-04 16:00:29 	(192/350) user 1812737 has 405 workouts
+2016-02-04 16:07:42 	(193/350) user 2844791 has 1845 workouts
+2016-02-04 16:32:41 	(194/350) user 68009 has 2804 workouts
+2016-02-04 17:20:58 	(195/350) user 6242372 has 1200 workouts
+2016-02-04 17:43:06 	(196/350) user 14083711 has 649 workouts
+2016-02-04 17:52:22 	(197/350) user 2726097 has 746 workouts
+2016-02-04 18:09:35 	(198/350) user 2474825 has 2171 workouts
+2016-02-04 18:47:16 	(199/350) user 7430612 has 659 workouts
+2016-02-04 18:59:00 	(200/350) user 5252259 has 180 workouts
+2016-02-04 19:03:09 	(201/350) user 6963583 has 131 workouts
+2016-02-04 19:05:28 	(202/350) user 2868369 has 1347 workouts
+2016-02-04 19:31:05 	(203/350) user 8875079 has 1412 workouts
+2016-02-04 19:56:43 	(204/350) user 1069797 has 393 workouts
+2016-02-04 20:03:25 	(205/350) user 2998566 has 363 workouts
+2016-02-04 20:09:24 	(206/350) user 1582750 has 251 workouts
+2016-02-04 20:13:33 	(207/350) user 15481421 has 362 workouts
+2016-02-04 20:19:55 7655488 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 20:21:08 	(209/350) user 4007546 has 2651 workouts
+2016-02-04 20:22:10 FAILED: (0/5) Unable to connect - user 4007546, workoutid 523068065
+Waiting 10 seconds...
+2016-02-04 21:09:35 	(210/350) user 437459 has 1509 workouts
+2016-02-04 21:36:59 	(211/350) user 324779 has 709 workouts
+2016-02-04 21:50:47 	(212/350) user 184018 has 1143 workouts
+2016-02-04 21:59:51 	(213/350) user 804189 has 997 workouts
+2016-02-04 22:15:38 	(214/350) user 2129382 has 946 workouts
+2016-02-04 22:31:17 	(215/350) user 6286628 has 1373 workouts
+2016-02-04 22:57:12 	(216/350) user 12537176 has 679 workouts
+2016-02-04 23:09:23 	(217/350) user 403148 has 1195 workouts
+2016-02-04 23:29:02 	(218/350) user 770148 has 722 workouts
+2016-02-04 23:41:10 	(219/350) user 236903 has 894 workouts
+2016-02-04 23:56:00 12657762 has 0 workouts
+Waiting 60 seconds...
+2016-02-04 23:57:02 	(221/350) user 3714939 has 3315 workouts
+2016-02-04 23:58:05 FAILED: (0/5) Unable to connect - user 3714939, workoutid 457072553
+Waiting 10 seconds...
+2016-02-05 01:04:17 	(222/350) user 5106976 has 1297 workouts
+2016-02-05 01:20:31 	(223/350) user 10219208 has 1496 workouts
+2016-02-05 01:38:23 	(224/350) user 107803 has 602 workouts
+2016-02-05 01:42:14 	(225/350) user 10803572 has 981 workouts
+2016-02-05 01:54:05 	(226/350) user 3253658 has 1407 workouts
+2016-02-05 02:03:37 	(227/350) user 6090906 has 155 workouts
+2016-02-05 02:04:45 	(228/350) user 6044358 has 1172 workouts
+2016-02-05 02:25:20 	(229/350) user 9130659 has 337 workouts
+2016-02-05 02:28:03 	(230/350) user 433157 has 2822 workouts
+2016-02-05 03:17:45 	(231/350) user 12911993 has 251 workouts
+2016-02-05 03:22:51 	(232/350) user 334217 has 1078 workouts
+2016-02-05 03:39:59 	(233/350) user 2237368 has 983 workouts
+2016-02-05 03:54:37 	(234/350) user 3841089 has 738 workouts
+2016-02-05 04:08:56 	(235/350) user 5981991 has 2141 workouts
+2016-02-05 04:22:02 	(236/350) user 1659991 has 1122 workouts
+2016-02-05 04:28:48 	(237/350) user 13577416 has 1428 workouts
+2016-02-05 04:47:38 FAILED: (0/5) Unable to connect - user 13577416, workoutid 362688384
+Waiting 10 seconds...
+2016-02-05 05:02:58 	(238/350) user 1586927 has 698 workouts
+2016-02-05 05:12:19 	(239/350) user 3183361 has 44 workouts
+2016-02-05 05:12:35 	(240/350) user 5896828 has 196 workouts
+2016-02-05 05:13:48 	(241/350) user 359613 has 236 workouts
+2016-02-05 05:15:14 	(242/350) user 9476518 has 659 workouts
+2016-02-05 05:19:17 	(243/350) user 5342638 has 162 workouts
+2016-02-05 05:20:17 	(244/350) user 979910 has 617 workouts
+2016-02-05 05:24:04 	(245/350) user 1640562 has 1024 workouts
+2016-02-05 05:30:12 	(246/350) user 1880023 has 1369 workouts
+2016-02-05 05:38:29 677228 has 0 workouts
+Waiting 60 seconds...
+2016-02-05 05:41:00 	(248/350) user 13369299 has 253 workouts
+2016-02-05 05:41:03 FAILED: (0/5) Unable to connect - user 13369299, workoutid 400925923
+Waiting 10 seconds...
+2016-02-05 05:45:37 	(249/350) user 1530732 has 666 workouts
+2016-02-05 05:55:36 	(250/350) user 13319741 has 83 workouts
+2016-02-05 05:57:03 	(251/350) user 3946466 has 947 workouts
+2016-02-05 06:13:16 	(252/350) user 8765371 has 294 workouts
+2016-02-05 06:18:17 	(253/350) user 15279967 has 74 workouts
+2016-02-05 06:19:49 	(254/350) user 2767185 has 83 workouts
+2016-02-05 06:21:29 	(255/350) user 1329120 has 692 workouts
+2016-02-05 06:31:21 	(256/350) user 6229563 has 790 workouts
+2016-02-05 06:45:47 	(257/350) user 1721981 has 264 workouts
+2016-02-05 06:51:29 	(258/350) user 3725029 has 358 workouts
+2016-02-05 06:57:05 	(259/350) user 7017288 has 876 workouts
+2016-02-05 07:11:31 	(260/350) user 2719148 has 244 workouts
+2016-02-05 07:16:30 	(261/350) user 6181060 has 515 workouts
+2016-02-05 07:21:05 	(262/350) user 3347250 has 1238 workouts
+2016-02-05 07:45:44 	(263/350) user 2949162 has 2535 workouts
+2016-02-05 08:03:24 	(264/350) user 1493217 has 331 workouts
+2016-02-05 08:08:04 	(265/350) user 8588224 has 1627 workouts
+2016-02-05 08:31:16 	(266/350) user 13503753 has 775 workouts
+2016-02-05 08:36:25 	(267/350) user 3411439 has 1511 workouts
+2016-02-05 09:11:31 	(268/350) user 8467445 has 1522 workouts
+2016-02-05 09:45:39 	(269/350) user 11258520 has 1008 workouts
+2016-02-05 10:03:57 	(270/350) user 65350 has 157 workouts
+2016-02-05 10:06:36 	(271/350) user 1038205 has 3078 workouts
+2016-02-05 10:57:26 	(272/350) user 4321971 has 279 workouts
+2016-02-05 11:02:34 	(273/350) user 13581902 has 245 workouts
+2016-02-05 11:07:42 	(274/350) user 8707000 has 1940 workouts
+2016-02-05 11:35:52 	(275/350) user 5362316 has 1174 workouts
+2016-02-05 11:43:32 	(276/350) user 8366159 has 553 workouts
+2016-02-05 11:49:25 	(277/350) user 2145516 has 1306 workouts
+2016-02-05 12:17:40 	(278/350) user 1891382 has 311 workouts
+2016-02-05 12:24:31 	(279/350) user 6883061 has 655 workouts
+2016-02-05 12:40:22 	(280/350) user 2368480 has 349 workouts
+2016-02-05 12:45:16 	(281/350) user 11457292 has 1051 workouts
+2016-02-05 12:53:47 9294243 has 0 workouts
+Waiting 60 seconds...
+2016-02-05 12:54:58 	(283/350) user 9913386 has 984 workouts
+2016-02-05 13:12:06 	(284/350) user 1860957 has 1441 workouts
+2016-02-05 13:32:43 8087490 has 0 workouts
+Waiting 60 seconds...
+2016-02-05 13:35:14 550695 has 0 workouts
+Waiting 60 seconds...
+2016-02-05 13:37:46 	(287/350) user 13657138 has 432 workouts
+2016-02-05 13:37:52 FAILED: (0/5) Unable to connect - user 13657138, workoutid 651793453
+Waiting 10 seconds...
+2016-02-05 13:45:08 	(288/350) user 9937628 has 1497 workouts
+2016-02-05 14:08:53 	(289/350) user 1638160 has 288 workouts
+2016-02-05 14:11:41 	(290/350) user 9345869 has 778 workouts
+2016-02-05 14:24:28 	(291/350) user 971189 has 1031 workouts
+2016-02-05 14:40:18 	(292/350) user 7734791 has 88 workouts
+2016-02-05 14:42:18 	(293/350) user 4101 has 251 workouts
+2016-02-05 14:47:07 	(294/350) user 5605316 has 518 workouts
+2016-02-05 14:53:43 	(295/350) user 1367691 has 553 workouts
+2016-02-05 15:02:57 	(296/350) user 7231044 has 628 workouts
+2016-02-05 15:16:46 	(297/350) user 3021311 has 2231 workouts
+2016-02-05 15:47:15 	(298/350) user 2370292 has 75 workouts
+2016-02-05 15:48:41 	(299/350) user 7833767 has 1350 workouts
+2016-02-05 16:12:29 	(300/350) user 3788549 has 758 workouts
+2016-02-05 16:17:10 	(301/350) user 7983390 has 680 workouts
+2016-02-05 16:21:23 	(302/350) user 13455187 has 397 workouts
+2016-02-05 16:23:49 5827656 has 0 workouts
+Waiting 60 seconds...
+2016-02-05 16:26:20 	(304/350) user 9613679 has 355 workouts
+2016-02-05 16:26:24 FAILED: (0/5) Unable to connect - user 9613679, workoutid 357233333
+Waiting 10 seconds...
+2016-02-05 16:31:36 	(305/350) user 5063358 has 1507 workouts
+2016-02-05 16:54:41 	(306/350) user 13406764 has 305 workouts
+2016-02-05 17:00:34 	(307/350) user 6657437 has 1113 workouts
+2016-02-05 17:18:32 	(308/350) user 651716 has 1238 workouts
+2016-02-05 17:42:25 	(309/350) user 118377 has 1552 workouts
+2016-02-05 18:10:15 	(310/350) user 10177904 has 1906 workouts
+2016-02-05 18:43:27 	(311/350) user 1590420 has 337 workouts
+2016-02-05 18:45:37 	(312/350) user 6314346 has 685 workouts
+2016-02-05 18:49:52 	(313/350) user 9933513 has 562 workouts
+2016-02-05 18:53:23 	(314/350) user 10477550 has 485 workouts
+2016-02-05 18:56:26 	(315/350) user 4071968 has 231 workouts
+2016-02-05 18:57:55 	(316/350) user 8535425 has 595 workouts
+2016-02-05 19:05:15 	(317/350) user 6532016 has 232 workouts
+2016-02-05 19:09:26 	(318/350) user 2282039 has 1779 workouts
+2016-02-05 19:39:14 	(319/350) user 14018941 has 58 workouts
+2016-02-05 19:40:16 	(320/350) user 7470676 has 2041 workouts
+2016-02-05 20:16:45 14982294 has 0 workouts
+Waiting 60 seconds...
+2016-02-05 20:18:12 	(322/350) user 10102190 has 467 workouts
+2016-02-05 20:25:17 	(323/350) user 8372595 has 363 workouts
+2016-02-05 20:31:49 	(324/350) user 1725447 has 1463 workouts
+2016-02-05 20:55:42 	(325/350) user 2582984 has 875 workouts
+2016-02-05 21:12:07 	(326/350) user 4390235 has 1182 workouts
+2016-02-05 21:33:38 	(327/350) user 5180550 has 391 workouts
+2016-02-05 21:37:13 	(328/350) user 983950 has 2179 workouts
+2016-02-05 22:18:33 	(329/350) user 2174810 has 1131 workouts
+2016-02-05 22:39:10 	(330/350) user 11599779 has 359 workouts
+2016-02-05 22:42:41 	(331/350) user 14111843 has 198 workouts
+2016-02-05 22:46:26 	(332/350) user 1663599 has 1970 workouts
+2016-02-05 23:38:00 	(333/350) user 244128 has 18 workouts
+2016-02-05 23:38:40 	(334/350) user 6194859 has 2998 workouts
+2016-02-06 00:18:13 	(335/350) user 14122572 has 39 workouts
+2016-02-06 00:18:55 	(336/350) user 1412034 has 191 workouts
+2016-02-06 00:21:33 	(337/350) user 1412615 has 264 workouts
+2016-02-06 00:27:28 	(338/350) user 4806068 has 1577 workouts
+2016-02-06 00:48:57 	(339/350) user 1520156 has 2426 workouts
+2016-02-06 01:27:36 	(340/350) user 2419254 has 1353 workouts
+2016-02-06 01:51:48 	(341/350) user 2901641 has 288 workouts
+2016-02-06 01:55:21 	(342/350) user 9422215 has 261 workouts
+2016-02-06 01:58:39 	(343/350) user 3616044 has 380 workouts
+2016-02-06 02:04:38 	(344/350) user 2587134 has 744 workouts
+2016-02-06 02:20:57 2165515 has 0 workouts
+Waiting 60 seconds...
+2016-02-06 02:23:15 	(346/350) user 4330976 has 719 workouts
+2016-02-06 02:24:00 FAILED: (0/5) Unable to connect - user 4330976, workoutid 450742586
+Waiting 10 seconds...
+2016-02-06 02:36:23 	(347/350) user 5486878 has 1022 workouts
+2016-02-06 02:53:35 	(348/350) user 1453299 has 432 workouts
+2016-02-06 02:57:00 	(349/350) user 12064359 has 1123 workouts
+2016-02-06 03:11:28 	(350/350) user 9125026 has 774 workouts
+2016-02-06 03:16:43  Done!
